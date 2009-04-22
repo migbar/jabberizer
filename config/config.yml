@@ -1,0 +1,19 @@
+---
+jabberizer:
+  name: galar_jabberizer
+  jid: galarsys@gmail.com/ruby
+  password: metallica@123
+
+jabberizer_handlers:
+    pig_relish_handler:
+        jid: galarmig@gmail.com
+
+    other_app_handler:
+        jid: foobar@gmail.com
+
+  
+# vcard:
+#   nickname: XMPP Bot
+#   fn: XMPP Bot
+#   url: http://gmail.com
+#   photo_path: avatar-red.png
